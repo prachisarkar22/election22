@@ -1,0 +1,303 @@
+election_id,username,region
+101,barjraj,Mumbai
+102,ramdin,Mumbai
+103,sharat,Mumbai
+104,birender,Mumbai
+105,amit,Mumbai
+106,kushal,Itanagar
+107,kasid,Itanagar
+108,shiv prakash,Itanagar
+109,vikram singh,Itanagar
+110,sanjay,Itanagar
+111,abhi,Amaravati
+112,ram dutt gupta,Amaravati
+113,khadak singh,Amaravati
+114,gurmit singh,Amaravati
+115,chanderpal,Amaravati
+116,aman,Amaravati
+117,khursid,Pune
+118,rajeev,Pune
+119,durgesh,Pune
+120,nahar singh,Pune
+121,ram kumar,Pune
+122,Surabhi,Pune
+123,maansingh aswal,Assam
+124,rohit,Assam
+125,sparsh,Assam
+126,santosh,Assam
+127,punit khandelwal,Assam
+128,dinesh,Patna
+129,gulshan,Patna
+130,arvind kumar yadav,Patna
+131,nausad,Patna
+132,md. afsar,Patna
+133,shiv shakti singh,Raipur
+134,moti lal,Raipur
+135,kausal kumar,Raipur
+136,mohabbat ali,Raipur
+137,raj kumar,Raipur
+138,jaswant singh,Raipur
+139,sevaklal,Panaji
+140,chotelal,Panaji
+141,rupesh,Panaji
+142,midda,Panaji
+143,dharamsingh,Gandhinagar
+144,manoj,Gandhinagar
+145,ramsingh,Gandhinagar
+146,preetamkumar,Gandhinagar
+147,shivani,Gandhinagar
+148,isha,Chandigarh
+149,shyanidevi,Chandigarh
+150,divya,Chandigarh
+151,mansi,Chandigarh
+152,mazida,Chandigarh
+153,pooja,Shimla
+154,kajal,Shimla
+155,meena,Shimla
+156,sonam,Shimla
+157,buity,Shimla
+158,hina,Ranchi
+159,shakshi,Ranchi
+160,anita,Ranchi
+161,neetu,Ranchi
+162,anshu,Bengaluru
+163,kanika,Bengaluru
+164,manju,Bengaluru
+165,shamiksha,Bengaluru
+166,sarain,Bengaluru
+167,pankajkumar,Thiruvananthapuram
+168,sheakshakir,Thiruvananthapuram
+169,riyasat,Thiruvananthapuram
+170,vinit,Thiruvananthapuram
+171,sumit,Bhopal
+172,arindra,Bhopal
+173,kalicharan,Bhopal
+174,badshya,Bhopal
+175,vikash,Bhopal
+176,devinder,Bhopal
+177,mohanlalsingh,Imphal
+178,hemant,Imphal
+179,shivam,Imphal
+180,yash,Imphal
+181,aakash,Aizawl
+182,chandesh,Aizawl
+183,sumitra,Aizawl
+184,preeti,Kohima
+185,geeta devi,Kohima
+186,swati thakur,Kohima
+188,shenaz,Bhubaneswar
+189,rinki,Bhubaneswar
+190,chandni,Bhubaneswar
+191,priyanka,Bhubaneswar
+192,ruksana,Chandigarh
+193,vivekkumar,Chandigarh
+194,kiran,Chandigarh
+195,nisha,Chandigarh
+196,heena,Jaipur
+197,jyoti,Jaipur
+198,rajni,Jaipur
+199,nidhi,Jaipur
+200,seema,Jaipur
+201,ushadevi,Jaipur
+202,mala,Gangtok
+203,khushbu,Gangtok
+204,hamida,Gangtok
+205,chanchal,Gangtok
+206,aarti,Gangtok
+207,kanchan,Gangtok
+208,priyaki,Chennai
+209,ranutiwari,Chennai
+210,anitadevi,Chennai
+211,leelawati,Chennai
+212,sunita,Hyderabad
+213,manjudevi,Hyderabad
+214,kamla,Hyderabad
+215,zamil,Hyderabad
+216,akhtar,Agartala
+217,devi,Agartala
+219,simran,Agartala
+220,sahin,Lucknow
+221,shalu,Lucknow
+222,asha kumari,Lucknow
+223,komal,Lucknow
+224,kusum,Lucknow
+225,archna,Lucknow
+226,himanshi,Lucknow
+227,anuradha,Lucknow
+228,durga,Kolkata
+229,km sunita,Kolkata
+230,sony jha,Kolkata
+231,sheetal,Kolkata
+232,preety,Kolkata
+233,rubina,Kolkata
+234,sangeeta,Dehradun
+235,madhuri sharma,Dehradun
+236,shabnam,Dehradun
+237,meenu chawla,Dehradun
+238,roshni,Dehradun
+239,amar deep kaur,Dehradun
+240,razia,Islamabad
+241,hamid,Islamabad
+242,roza,Islamabad
+243,kevan,Islamabad
+244,ellan,Islamabad
+245,rahim,Islamabad
+246,raziam,Bhaseen
+247,daruq,Bhaseen
+248,faruq,Bhaseen
+249,jikoor,Bhaseen
+250,lihall,Bhaseen
+251,polal,Bhaseen
+252,namida,Bhaseen
+253,manida,Bhaseen
+254,halla,Karachi West
+255,haqin,Karachi West
+256,rahimani,Karachi West
+257,goran,Karachi West
+258,muhammad,Karachi West
+259,saif,Karachi West
+260,sharukh,Karachi West
+261,salman,Karachi West
+262,fijool,Karachi West
+263,ang,Xining
+264,ao,Xining
+265,au,Xining
+266,an,Xining
+267,ba,Xining
+268,bai,Chengdu
+269,ban,Chengdu
+270,bao,Chengdu
+271,bau,Chengdu
+272,bi,Lanzhou
+273,bo,Lanzhou
+274,bu,Lanzhou
+275,cai,Lanzhou
+276,cao,Lanzhou
+277,cha,Harbin
+278,chai,Harbin
+279,cham,Harbin
+280,chan,Harbin
+281,chang,Harbin
+282,chao,Changsha
+283,chau,Changsha
+284,che,Changsha
+285,cheah,Changsha
+286,chee,Changsha
+287,chen,Wuhan
+288,cheng,Wuhan
+289,cheong,Wuhan
+290,chern,Wuhan
+291,cheung,Wuhan
+292,chi,Shenyang
+293,chia,Shenyang
+294,chiang,Shenyang
+295,chiao,Shenyang
+296,chien,Shenyang
+297,chim,Shenyang
+298,chin,Shenyang
+299,ching,Shenyang
+300,chiong,Lanzhou
+301,chiou,Lanzhou
+302,chiu,Lanzhou
+303,cho,Lanzhou
+304,choi,Lanzhou
+305,chong,Wuhan
+306,choo,Wuhan
+307,chou,Wuhan
+308,chow,Wuhan
+309,choy,Wuhan
+310,Asahi,Nara
+311,Aika,Nara
+312,Aiko,Nara
+313,Aimi,Nara
+314,Aiya,Nara
+315,Akako,Nara
+316,Akane,Oita City
+317,Akasuki,Oita City
+318,Akemi,Oita City
+319,Aki,Oita City
+320,Akihiko,Oita City
+321,Akihiro,Naha
+322,Akiko,Naha
+323,Akina,Naha
+324,Akira,Naha
+325,Amaterasu,Naha
+326,Amaya,Osaka
+327,Ami,Osaka
+328,Amida,Osaka
+329,Anka,Osaka
+330,Annaisha,Osaka
+331,Annya,Osaka
+332,Anzu,Osaka
+333,Arakan,Osaka
+334,Arata,Saga
+335,Arisu,Saga
+336,Asa,Saga
+337,Asami,Saga
+338,Asuka,Saga
+339,Atsushi,Saga
+340,Ayaka,Saga
+341,Ayako,Saitama
+342,Ayame,Saitama
+343,Ayano,Saitama
+344,Ayumi,Saitama
+345,Azami,Saitama
+346,Azumi,Saitama
+347,Botan,Saitama
+348,Bunko,Saitama
+349,Chiasa,Sapporo
+350,Chieko,Sapporo
+351,Chiharu,Sapporo
+352,Chika,Sapporo
+353,Chikako,Sapporo
+354,Chinami,Sapporo
+355,Chitose,Otsu
+356,Chiyo,Otsu
+357,Chizu,Otsu
+358,Dai,Otsu
+359,Daichi,Otsu
+360,Daisuke,Otsu
+361,Daitan,Shizuoka
+362,Den,Shizuoka
+363,Eichi,Shizuoka
+364,Eiko,Shizuoka
+365,Emiko,Shizuoka
+366,Emiyo,Shizuoka
+367,Ena,Shinjuku
+368,Eri,Shinjuku
+369,Erity,Shinjuku
+370,Etsu,Shinjuku
+371,Etsuko,Shinjuku
+372,Ezume,Shinjuku
+373,Fudo,Shinjuku
+374,Fujita,Naha
+375,Fumiko,Naha
+376,rob,Naha
+377,luc,Recife
+378,fee,São Paulo
+379,gee,Paris
+380,gof,Paris
+381,fah,Campinas
+382,bob,Paulista
+383,rob,Recife
+384,luc,Recife
+385,fee,São Paulo
+386,gee,Paris
+387,gof,Paris
+388,fah,Campinas
+389,bob,Paulista
+390,rob,Recife
+391,luc,Recife
+392,fee,São Paulo
+393,gee,Paris
+394,gof,Paris
+395,fah,Campinas
+396,bob,Paulista
+397,rob,Recife
+398,luc,Recife
+399,fee,São Paulo
+400,gee,Paris
+401,gof,Paris
+402,fah,Campinas
+403,bob,Paulista
+404,prachi,Pune
